@@ -42,4 +42,4 @@ You can customize the login page by modifying the HTML and CSS code in the ESP82
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU License](LICENSE).
